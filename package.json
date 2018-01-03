@@ -1,0 +1,19 @@
+{
+  "name": "telegram",
+  "version": "0.0.1",
+  "description": "telegram chat bot",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-telegram-bot-api": "^0.27.0",
+    "request": "^2.81.0",
+    "openweathermap": "^1.0.0",
+    "poloniex-api-node": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolaus Mutewsky",
+  "license": "ISC"
+}

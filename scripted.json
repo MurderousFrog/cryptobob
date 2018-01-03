@@ -1,0 +1,11 @@
+[
+{"kwds": "fuck|shit|ass|nigger|whore|cunt|bitch|retard|fucker|idiot", "res": ["What the fuck did you just say about me you little bitch?", "Dude.", "Watch the language!", "Chill, bro."]},
+{"kwds": "shrug", "res": ["¯\\_(ツ)_/¯"]},
+{"kwds": "feel|fühlst|fühlen", "res": ["Just fine, thanks.","I feel like there's some bits stuck between my toes.", "Alright.", "Bleh.","Look at you, social butterfly.", "I feel like butter melting in the sun.", "I feel like you ask too many questions."]},
+{"kwds": "google", "res": ["Heard of it, yeah.", "Cheap.", "You mean google?"]},
+{"kwds": "profile", "res": ["Oh thank you! That's so sweet."]},
+{"kwds": "nice|sweet|pretty|gorgeus|best|cool|adorable", "res": ["Aww.", "Keep going!","Thank you!", "You mean the world to me.", "You're the best."]},
+{"kwds": "autobot|robot|bot|transformer|roll", "res": ["Bleep", "Bloop","Vreeeee","Mrrn.", "aREEEE", "prrrt", "Nrrrt nrrt"]},
+{"kwds": "?", "res": [ "Yup.","Hell no.","Shit yeah.","More often than not.","Do you?","I wouldn't dare."]},
+{"kwds": "", "res": ["What?","Excuse me?","Yes.", "Sup", "Hmm?", "Shut up.", "How about no?"]}
+]
